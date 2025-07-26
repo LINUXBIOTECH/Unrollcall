@@ -1,6 +1,6 @@
 # F.L.U.SH
 
-(Fl)ashing and (L)icensing Under (SH)ell
+(Fl)ashing and (L)icensing (U)nder (SH)ell
 
 NOTE: FLUSH DOES NOT FREE YOUR CHROMEBOOK WITHOUT DEVMODE.
 FOR THAT, VISIT C.A.T.S:
