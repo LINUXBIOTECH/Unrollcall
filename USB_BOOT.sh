@@ -32,7 +32,8 @@ sudo crossystem dev_boot_altfw=1
 sudo crossystem dev_boot_legacy=1
 sudo crossystem dev_boot_signed_only=0
 sudo enable_dev_usb_boot
-echo -e "ALL crossystem seetings applied. If there were any errors, the script wil not work, and USB boot is not possible on your device"
+echo -e "ALL crossystem seetings applied. If there were any errors, the script wil not work, and USB boot is not possible on your device if so, press Ctrl+C NOW"
+sleep 5
 echo -e "Starting Mr.Chromebox.tech USB BOOT SCRIPT. Please Press the key 1, and download the RW_LEGACY firmware once it loads the menu. "
 
 cd; curl -LO mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh
