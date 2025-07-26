@@ -1,5 +1,5 @@
 # F.L.U.SH
 
-#(Fl)ashing and (L)icensing Under (SH)ell
+(Fl)ashing and (L)icensing Under (SH)ell
 
 NOTE: FLUSH IS NOT RESPONSIBLE FOR ANYTHING THAT MAY HAPPEN TO YOU OR YOUR CHROMEBOOK.
